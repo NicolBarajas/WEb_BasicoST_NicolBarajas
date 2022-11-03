@@ -1,0 +1,63 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Engagement&display=swap');
+h1{
+  font-family: 'Courgette', cursive;
+font-family: 'Engagement', cursive;
+  float:center;
+  color:rgb(17, 13, 17);
+  font-size: 5vw;
+}
+.fondo2{
+  background-image: linear-gradient(#dfdfdf, #eeccfc);
+}
+.fondo{
+    background-image: linear-gradient(#E5A4F9, #F9E1A4);  
+}
+
+body{
+ background-color: #111;
+}
+table{
+    background-color:rgb(187, 187, 187)
+}
+centrar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.form
+{
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -15% 0 0 -25%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(#f76363, #fc2df1);
+    border-radius: 10px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  section,header{
+    border-radius: 10px;
+  }
